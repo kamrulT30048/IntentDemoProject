@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Intent Demo</string>
+    <string name="title"><b>Email Info</b></string>
+    <string name="show_mail">Email:</string>
+    <string name="show_subject">Subject:</string>
+    <string name="show_body">Body:\n\n</string>
+    <string name="send">send</string>
+    <string name="to">To:</string>
+    <string name="mail_to">mail_to</string>
+    <string name="show"><b>Preview</b></string>
+    <string name="subject">Subject:</string>
+    <string name="compose_mail">Compose Mail</string>
+    <string name="change_background">Change Background</string>
+    <string name="mail_body">Compose Mail Body:</string>
+    <string name="mail_subject">Subject:</string>
+    <string name="mail_to_title"><b>Mail To:</b></string>
+    <string name="change_font">Change Font</string>
+    <string name="send_mail">Send Mail</string>
+
+</resources>
